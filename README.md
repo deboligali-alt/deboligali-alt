@@ -1,16 +1,53 @@
-## Hi there 👋
+Hi, I'm Hylondon 👋
 
-<!--
-**deboligali-alt/deboligali-alt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student | Web Developer | Tech Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science student passionate about building websites, web applications, and exploring AI technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+🎓 Computer Science Student
+💻 Learning and building with modern web technologies
+🤖 Exploring AI and AI-powered applications
+🌱 Always learning and improving
+🛠️ Building projects and documenting my journey
+💻 Technologies & Skills
+
+Frontend
+
+HTML
+CSS
+JavaScript
+React.js
+Tailwind CSS
+Backend
+
+Node.js
+Express.js
+MongoDB
+MySQL
+REST APIs
+JWT Authentication
+Tools
+
+Git & GitHub
+VS Code
+Vercel
+Firebase
+📚 Currently Learning
+
+Advanced JavaScript
+React.js
+Backend Development
+APIs
+AI Development
+Software Engineering
+🚀 What I'm Building
+
+I enjoy turning ideas into real projects and experimenting with technology to solve practical problems.
+
+🎯 My Goal
+
+To become a highly skilled software developer and build technology that creates real value.
+
+⭐ Thanks for visiting my profile!
